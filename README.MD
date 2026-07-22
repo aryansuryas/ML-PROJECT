@@ -9,7 +9,7 @@ A modern Next.js 15 application built with TypeScript and Tailwind CSS.
 - **Tailwind CSS** - Utility-first CSS framework for rapid UI development
 
 ## 🛠️ Installation
-
+as
 1. Install dependencies:
   ```bash
   npm install
